@@ -1,0 +1,5 @@
+Here is your key: e2f1de69
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=e2f1de69
