@@ -1,0 +1,4 @@
+Prod API Key
+"648R80ME78VIYL3WDVSO"
+Prod API Secret
+"WidjRmlenRmSl45YXJc8TqgbYIMGC9wu"

@@ -1,0 +1,4 @@
+Test API Key
+"test_C6KCELZI65CAC7AO82U2"
+Test API Secret
+"SwyTHG2hlA0xSziftGgWusVjU9XNVaFt"
